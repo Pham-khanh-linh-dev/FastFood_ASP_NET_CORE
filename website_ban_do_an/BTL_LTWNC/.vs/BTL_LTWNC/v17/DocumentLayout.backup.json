@@ -1,0 +1,1088 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\wwwroot\\css\\productcard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\wwwroot\\css\\productcard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\views\\shared\\_productpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\views\\shared\\_productpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\views\\product\\getallproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\views\\product\\getallproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\views\\shared\\_commonsectionpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\views\\shared\\_commonsectionpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\views\\product\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\views\\product\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\views\\shared\\_footerpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\views\\shared\\_footerpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\views\\shared\\_headerpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\views\\shared\\_headerpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\views\\shared\\_layoutloginandregister.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\views\\shared\\_layoutloginandregister.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\wwwroot\\css\\header.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\wwwroot\\css\\header.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\wwwroot\\adminassets\\css\\sidebar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\wwwroot\\adminassets\\css\\sidebar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\wwwroot\\adminassets\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\wwwroot\\adminassets\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\wwwroot\\adminassets\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\wwwroot\\adminassets\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\wwwroot\\adminassets\\js\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\wwwroot\\adminassets\\js\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\wwwroot\\css\\commonsection.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\wwwroot\\css\\commonsection.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\views\\cart\\_checkoutcustomerinfopartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\views\\cart\\_checkoutcustomerinfopartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\models\\viewmodel\\orderdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\models\\viewmodel\\orderdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\areas\\admin\\controllers\\productcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\areas\\admin\\controllers\\productcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\models\\viewmodel\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\models\\viewmodel\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\models\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\models\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\models\\ef\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\models\\ef\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\models\\viewmodel\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\models\\viewmodel\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\wwwroot\\public\\images\\cfca2e1f-372c-42fa-8782-3d4fe76c3ac6_pizza.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\wwwroot\\public\\images\\cfca2e1f-372c-42fa-8782-3d4fe76c3ac6_pizza.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\views\\cart\\_checkoutcartitempartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\views\\cart\\_checkoutcartitempartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\models\\ef\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\models\\ef\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\models\\ef\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\models\\ef\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\models\\ef\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\models\\ef\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\models\\ef\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\models\\ef\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\models\\ef\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\models\\ef\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\models\\ef\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\models\\ef\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\wwwroot\\public\\images\\login-image.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\wwwroot\\public\\images\\login-image.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\wwwroot\\public\\images\\heroimg.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\wwwroot\\public\\images\\heroimg.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\wwwroot\\public\\images\\signup-image.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\wwwroot\\public\\images\\signup-image.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\wwwroot\\public\\images\\signin-image.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\wwwroot\\public\\images\\signin-image.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\wwwroot\\public\\images\\payment.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\wwwroot\\public\\images\\payment.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\wwwroot\\public\\images\\1b2c1e48-ecbe-4c5c-adf3-f6e1b5b825f5_kfc.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\wwwroot\\public\\images\\1b2c1e48-ecbe-4c5c-adf3-f6e1b5b825f5_kfc.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\wwwroot\\public\\images\\21ae36b5-4fb2-4f74-8656-f92a09787bcf_kfc.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\wwwroot\\public\\images\\21ae36b5-4fb2-4f74-8656-f92a09787bcf_kfc.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\wwwroot\\public\\images\\100x100.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\wwwroot\\public\\images\\100x100.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|c:\\users\\dell\\documents\\net_fastfoodonline\\fastfoodonline\\website_ban_do_an\\btl_ltwnc\\btl_ltwnc\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A06F5A05-269D-45B1-95D5-FC380423E160}|BTL_LTWNC\\BTL_LTWNC.csproj|solutionrelative:btl_ltwnc\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BTL_LTWNC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T02:32:13.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "getAllProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Views\\Product\\getAllProduct.cshtml",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Views\\Product\\getAllProduct.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Views\\Product\\getAllProduct.cshtml",
+              "RelativeToolTip": "BTL_LTWNC\\Views\\Product\\getAllProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T02:58:24.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ProductPartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Views\\Shared\\_ProductPartialView.cshtml",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Views\\Shared\\_ProductPartialView.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Views\\Shared\\_ProductPartialView.cshtml",
+              "RelativeToolTip": "BTL_LTWNC\\Views\\Shared\\_ProductPartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T02:56:38.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "productCard.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\css\\productCard.css",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\wwwroot\\css\\productCard.css",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\css\\productCard.css",
+              "RelativeToolTip": "BTL_LTWNC\\wwwroot\\css\\productCard.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-17T08:34:18.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Views\\Product\\ProductDetails.cshtml",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Views\\Product\\ProductDetails.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Views\\Product\\ProductDetails.cshtml",
+              "RelativeToolTip": "BTL_LTWNC\\Views\\Product\\ProductDetails.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T02:53:24.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_FooterPartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Views\\Shared\\_FooterPartialView.cshtml",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Views\\Shared\\_FooterPartialView.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Views\\Shared\\_FooterPartialView.cshtml",
+              "RelativeToolTip": "BTL_LTWNC\\Views\\Shared\\_FooterPartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T04:17:53.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_CommonSectionPartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Views\\Shared\\_CommonSectionPartialView.cshtml",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Views\\Shared\\_CommonSectionPartialView.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Views\\Shared\\_CommonSectionPartialView.cshtml",
+              "RelativeToolTip": "BTL_LTWNC\\Views\\Shared\\_CommonSectionPartialView.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T04:17:54.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_HeaderPartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Views\\Shared\\_HeaderPartialView.cshtml",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Views\\Shared\\_HeaderPartialView.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Views\\Shared\\_HeaderPartialView.cshtml",
+              "RelativeToolTip": "BTL_LTWNC\\Views\\Shared\\_HeaderPartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T08:56:15.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "BTL_LTWNC\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-18T04:37:11.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_LayoutLoginAndRegister.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Views\\Shared\\_LayoutLoginAndRegister.cshtml",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Views\\Shared\\_LayoutLoginAndRegister.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Views\\Shared\\_LayoutLoginAndRegister.cshtml",
+              "RelativeToolTip": "BTL_LTWNC\\Views\\Shared\\_LayoutLoginAndRegister.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T04:20:50.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "BTL_LTWNC\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAAcAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T08:40:32.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "BTL_LTWNC\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T02:57:08.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "BTL_LTWNC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T02:57:07.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BTL_LTWNC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T02:35:02.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "BTL_LTWNC\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T02:32:17.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "header.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\css\\header.css",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\wwwroot\\css\\header.css",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\css\\header.css",
+              "RelativeToolTip": "BTL_LTWNC\\wwwroot\\css\\header.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-17T08:34:23.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "sidebar.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\css\\sidebar.css",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\wwwroot\\AdminAssets\\css\\sidebar.css",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\css\\sidebar.css",
+              "RelativeToolTip": "BTL_LTWNC\\wwwroot\\AdminAssets\\css\\sidebar.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-18T03:18:22.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BTL_LTWNC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T04:10:22.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BTL_LTWNC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T04:10:21.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "BTL_LTWNC\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T04:10:14.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BTL_LTWNC\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T04:10:04.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\css\\site.css",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\wwwroot\\AdminAssets\\css\\site.css",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\css\\site.css",
+              "RelativeToolTip": "BTL_LTWNC\\wwwroot\\AdminAssets\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-18T03:18:23.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BTL_LTWNC\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:30:27.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\js\\site.js",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\wwwroot\\AdminAssets\\js\\site.js",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\js\\site.js",
+              "RelativeToolTip": "BTL_LTWNC\\wwwroot\\AdminAssets\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-18T03:18:28.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "product.js",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\js\\product.js",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\wwwroot\\AdminAssets\\js\\product.js",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\AdminAssets\\js\\product.js",
+              "RelativeToolTip": "BTL_LTWNC\\wwwroot\\AdminAssets\\js\\product.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-18T03:18:18.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "home.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\css\\home.css",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\wwwroot\\css\\home.css",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\css\\home.css",
+              "RelativeToolTip": "BTL_LTWNC\\wwwroot\\css\\home.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-17T08:34:42.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "BTL_LTWNC\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:30:28.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "commonSection.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\css\\commonSection.css",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\wwwroot\\css\\commonSection.css",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\css\\commonSection.css",
+              "RelativeToolTip": "BTL_LTWNC\\wwwroot\\css\\commonSection.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-18T03:16:45.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "BTL_LTWNC\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:30:35.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_CheckOutCustomerInfoPartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Views\\Cart\\_CheckOutCustomerInfoPartialView.cshtml",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Views\\Cart\\_CheckOutCustomerInfoPartialView.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Views\\Cart\\_CheckOutCustomerInfoPartialView.cshtml",
+              "RelativeToolTip": "BTL_LTWNC\\Views\\Cart\\_CheckOutCustomerInfoPartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T03:28:07.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OrderDetailViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Models\\ViewModel\\OrderDetailViewModel.cs",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Models\\ViewModel\\OrderDetailViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Models\\ViewModel\\OrderDetailViewModel.cs",
+              "RelativeToolTip": "BTL_LTWNC\\Models\\ViewModel\\OrderDetailViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:52:59.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProductCategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Areas\\Admin\\Controllers\\ProductCategoryController.cs",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Areas\\Admin\\Controllers\\ProductCategoryController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Areas\\Admin\\Controllers\\ProductCategoryController.cs",
+              "RelativeToolTip": "BTL_LTWNC\\Areas\\Admin\\Controllers\\ProductCategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:30:33.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Program.cs",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Program.cs",
+              "RelativeToolTip": "BTL_LTWNC\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIBZwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:36:00.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Models\\ViewModel\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Models\\ViewModel\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Models\\ViewModel\\ProductViewModel.cs",
+              "RelativeToolTip": "BTL_LTWNC\\Models\\ViewModel\\ProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:53:01.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BTL_LTWNC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T03:00:33.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BTL_LTWNC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T03:00:31.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Models\\EF\\Product.cs",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Models\\EF\\Product.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Models\\EF\\Product.cs",
+              "RelativeToolTip": "BTL_LTWNC\\Models\\EF\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:58:47.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Models\\ViewModel\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Models\\ViewModel\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Models\\ViewModel\\LoginViewModel.cs",
+              "RelativeToolTip": "BTL_LTWNC\\Models\\ViewModel\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:52:58.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "OrderViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Models\\ViewModel\\OrderViewModel.cs",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Models\\ViewModel\\OrderViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Models\\ViewModel\\OrderViewModel.cs",
+              "RelativeToolTip": "BTL_LTWNC\\Models\\ViewModel\\OrderViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:53:00.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BTL_LTWNC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:51:52.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "BTL_LTWNC\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:50:02.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Controllers\\CartController.cs",
+              "RelativeToolTip": "BTL_LTWNC\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:30:44.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "BTL_LTWNC\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACAAAAAAmZmZmVkrwDAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:28:54.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "cfca2e1f-372c-42fa-8782-3d4fe76c3ac6_pizza.jpg",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\public\\images\\cfca2e1f-372c-42fa-8782-3d4fe76c3ac6_pizza.jpg",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\wwwroot\\public\\images\\cfca2e1f-372c-42fa-8782-3d4fe76c3ac6_pizza.jpg",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\public\\images\\cfca2e1f-372c-42fa-8782-3d4fe76c3ac6_pizza.jpg",
+              "RelativeToolTip": "BTL_LTWNC\\wwwroot\\public\\images\\cfca2e1f-372c-42fa-8782-3d4fe76c3ac6_pizza.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-16T02:30:09.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\appsettings.json",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\appsettings.json",
+              "RelativeToolTip": "BTL_LTWNC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T02:37:41.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\appsettings.Development.json",
+              "RelativeToolTip": "BTL_LTWNC\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T02:35:57.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Startup.cs",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Startup.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Startup.cs",
+              "RelativeToolTip": "BTL_LTWNC\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:29:32.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "_CheckOutCartItemPartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Views\\Cart\\_CheckOutCartItemPartialView.cshtml",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Views\\Cart\\_CheckOutCartItemPartialView.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Views\\Cart\\_CheckOutCartItemPartialView.cshtml",
+              "RelativeToolTip": "BTL_LTWNC\\Views\\Cart\\_CheckOutCartItemPartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T02:32:27.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Models\\EF\\User.cs",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Models\\EF\\User.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Models\\EF\\User.cs",
+              "RelativeToolTip": "BTL_LTWNC\\Models\\EF\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:31:48.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Models\\EF\\Role.cs",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Models\\EF\\Role.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Models\\EF\\Role.cs",
+              "RelativeToolTip": "BTL_LTWNC\\Models\\EF\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:31:47.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Models\\EF\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Models\\EF\\ProductCategory.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Models\\EF\\ProductCategory.cs",
+              "RelativeToolTip": "BTL_LTWNC\\Models\\EF\\ProductCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:31:17.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Models\\EF\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Models\\EF\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Models\\EF\\OrderDetail.cs",
+              "RelativeToolTip": "BTL_LTWNC\\Models\\EF\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:31:16.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Models\\EF\\CartItem.cs",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Models\\EF\\CartItem.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Models\\EF\\CartItem.cs",
+              "RelativeToolTip": "BTL_LTWNC\\Models\\EF\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:31:05.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "BTL_LTWNC\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAIBZwBoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T02:28:54.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "BTL_LTWNC\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAnwBgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T02:28:54.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Models\\EF\\Order.cs",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Models\\EF\\Order.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Models\\EF\\Order.cs",
+              "RelativeToolTip": "BTL_LTWNC\\Models\\EF\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:31:06.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "BTL_LTWNC\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:30:51.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "login-image.jpg",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\public\\images\\login-image.jpg",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\wwwroot\\public\\images\\login-image.jpg",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\public\\images\\login-image.jpg",
+              "RelativeToolTip": "BTL_LTWNC\\wwwroot\\public\\images\\login-image.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-16T02:30:16.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "signup-image.jpg",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\public\\images\\signup-image.jpg",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\wwwroot\\public\\images\\signup-image.jpg",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\public\\images\\signup-image.jpg",
+              "RelativeToolTip": "BTL_LTWNC\\wwwroot\\public\\images\\signup-image.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-16T02:30:14.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "signin-image.jpg",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\public\\images\\signin-image.jpg",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\wwwroot\\public\\images\\signin-image.jpg",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\public\\images\\signin-image.jpg",
+              "RelativeToolTip": "BTL_LTWNC\\wwwroot\\public\\images\\signin-image.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-16T02:30:12.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "payment.png",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\public\\images\\payment.png",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\wwwroot\\public\\images\\payment.png",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\public\\images\\payment.png",
+              "RelativeToolTip": "BTL_LTWNC\\wwwroot\\public\\images\\payment.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-16T02:30:11.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "heroImg.png",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\public\\images\\heroImg.png",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\wwwroot\\public\\images\\heroImg.png",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\public\\images\\heroImg.png",
+              "RelativeToolTip": "BTL_LTWNC\\wwwroot\\public\\images\\heroImg.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-16T02:30:10.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "1b2c1e48-ecbe-4c5c-adf3-f6e1b5b825f5_kfc.jpg",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\public\\images\\1b2c1e48-ecbe-4c5c-adf3-f6e1b5b825f5_kfc.jpg",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\wwwroot\\public\\images\\1b2c1e48-ecbe-4c5c-adf3-f6e1b5b825f5_kfc.jpg",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\public\\images\\1b2c1e48-ecbe-4c5c-adf3-f6e1b5b825f5_kfc.jpg",
+              "RelativeToolTip": "BTL_LTWNC\\wwwroot\\public\\images\\1b2c1e48-ecbe-4c5c-adf3-f6e1b5b825f5_kfc.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-16T02:30:08.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "21ae36b5-4fb2-4f74-8656-f92a09787bcf_kfc.jpg",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\public\\images\\21ae36b5-4fb2-4f74-8656-f92a09787bcf_kfc.jpg",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\wwwroot\\public\\images\\21ae36b5-4fb2-4f74-8656-f92a09787bcf_kfc.jpg",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\public\\images\\21ae36b5-4fb2-4f74-8656-f92a09787bcf_kfc.jpg",
+              "RelativeToolTip": "BTL_LTWNC\\wwwroot\\public\\images\\21ae36b5-4fb2-4f74-8656-f92a09787bcf_kfc.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-16T02:30:07.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "100x100.jpg",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\public\\images\\100x100.jpg",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\wwwroot\\public\\images\\100x100.jpg",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\public\\images\\100x100.jpg",
+              "RelativeToolTip": "BTL_LTWNC\\wwwroot\\public\\images\\100x100.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-16T02:30:05.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "BTL_LTWNC\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-16T02:29:30.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "login.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\css\\login.css",
+              "RelativeDocumentMoniker": "BTL_LTWNC\\wwwroot\\css\\login.css",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\NET_FastFoodOnline\\FastFoodOnline\\website_ban_do_an\\BTL_LTWNC\\BTL_LTWNC\\wwwroot\\css\\login.css",
+              "RelativeToolTip": "BTL_LTWNC\\wwwroot\\css\\login.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-16T02:28:54.197Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
